@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location Services</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_app_id">YOUR_PROJECT_NUMBER</string>
+</resources>
