@@ -1,6 +1,6 @@
 # Google-Places
 
-## Right now, Only options for Restaurant,Gyms,Bars,Cafe,Bank and Hospital.
+Right now, Only options for Restaurant,Gyms,Bars,Cafe,Bank and Hospital.
 
 ###### Add Following code snippet in build.gradle and you are good to go.
 
