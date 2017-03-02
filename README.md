@@ -1,9 +1,10 @@
 # Google-Places
 
-Right now, Only options for Restaurant,Gyms,Bars,Cafe,Bank and Hospital.
+## Right now, Only options for Restaurant,Gyms,Bars,Cafe,Bank and Hospital.
 
-Add Following code snippet in build.gradle and you are good to go.
+###### Add Following code snippet in build.gradle and you are good to go.
 
+```
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
@@ -20,3 +21,4 @@ dependencies {
     compile 'com.akexorcist:googledirectionlibrary:1.0.4'
     compile 'com.squareup.okhttp3:logging-interceptor:3.2.0'
 }
+```
