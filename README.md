@@ -23,4 +23,4 @@ dependencies {
 }
 ```
 ###### ScreenShots
-<img src="images/s1.png" width="250" height="500">   <img src="images/s2.png" width="250" height="500">   <img src="images/s3.png" width="250" height="500">   
+<img src="screenshots/S1.png" width="250" height="500">   <img src="screenshots/S2.png" width="250" height="500">    <img src="screenshots/S3.png" width="250" height="500">   
